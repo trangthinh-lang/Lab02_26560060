@@ -1,3 +1,5 @@
+# Trang Nhu Thinh - 26560060
+#Purpose: LAB 02, Experiment 2 -
 .data
 str1: .asciiz "nguyen van an"
 tag:  .asciiz " [end]"
