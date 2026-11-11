@@ -1,4 +1,4 @@
-
+# Trang Nhu Thinh - 26560060
 .data
 scores: .word 40, 55, 70, 85, 100
 msg:    .asciiz "Total: "
@@ -43,3 +43,4 @@ main:
 
     li   $v0, 10
     syscall
+
